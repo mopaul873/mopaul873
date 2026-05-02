@@ -33,6 +33,7 @@
 
 - ☁️ AWS Certified Cloud Practitioner
 - 🎓 DevOps Bootcamp — 2023
+- National Society of Leadership and Success - Inductee 2026
 
 ---
 
