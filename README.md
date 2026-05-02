@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Paul Momo! 👋
 
-<!--
-**mopaul873/mopaul873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AS Computer Science — December 2026 | GPA: 3.87
+☁️ AWS Certified Cloud Practitioner
+📍 New York | Open to DevOps & Cloud roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Python, Bash, SQL, Java
+**DevOps:** GitHub Actions, Terraform, Docker
+**Cloud:** AWS (EC2, S3, IAM, Security Groups)
+**Tools:** Git, Linux, Flask, pytest, Gunicorn
+
+---
+
+## 🚀 Featured Project
+
+### [⚡ DevOps Health Dashboard](https://github.com/mopaul873/devops-health-dashboard)
+> Real-time system monitoring with full CI/CD pipeline
+
+- 🐍 Flask REST API with 3 production endpoints
+- 🧪 16 automated pytest tests
+- ⚙️ GitHub Actions CI/CD pipeline
+- 🏗️ Terraform Infrastructure as Code
+- ☁️ Deployed on AWS EC2
+- ⏱️ Full pipeline completes in under 1 minute
+
+---
+
+## 📜 Certifications
+
+- ☁️ AWS Certified Cloud Practitioner
+- 🎓 DevOps Bootcamp — 2023
+
+---
+
+## 📊 Currently Learning
+
+- AWS Solutions Architect Associate
+- Kubernetes fundamentals
+- Advanced Terraform
+- C++
+
+---
+
+## 📫 Let's Connect!
+
+> Open to Junior DevOps, Cloud Engineer, and SRE internships/roles in New York!
