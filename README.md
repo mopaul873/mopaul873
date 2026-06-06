@@ -8,27 +8,27 @@
 
 ## 🛠️ Tech Stack
 
-*💻 Languages:** Python, Bash, SQL, Java, C++
+*💻 Languages: Python, Bash, SQL, Java, C++
 
-*☁️ Cloud:** AWS (EC2, ECS/Fargate, S3, IAM, VPC, Security Groups, Application Load Balancer)
+*☁️ Cloud: AWS (EC2, ECS/Fargate, S3, IAM, VPC, Security Groups, Application Load Balancer)
 
-*🏗️ Infrastructure as Code:** Terraform
+*🏗️ Infrastructure as Code: Terraform
 
-*🐳 Containers & Orchestration:** Docker, Kubernetes (k3s), Containerd
+*🐳 Containers & Orchestration: Docker, Kubernetes (k3s), Containerd
 
-*⚙️ CI/CD:** GitHub Actions
+*⚙️ CI/CD: GitHub Actions
 
-*🚀 Frameworks & APIs:** FastAPI, Flask, Gunicorn
+*🚀 Frameworks & APIs: FastAPI, Flask, Gunicorn
 
-*🤖 AI Infrastructure:** Ollama, TinyLlama
+*🤖 AI Infrastructure: Ollama, TinyLlama
 
-*🔧 Tools:** Git, GitHub, Linux, pytest
+*🔧 Tools: Git, GitHub, Linux, pytest
 
-*🌐 Networking:** VPC, Route Tables, NAT Gateway, Load Balancers, Ingress (Traefik)
+*🌐 Networking: VPC, Route Tables, NAT Gateway, Load Balancers, Ingress (Traefik)
 
-*📦 Kubernetes:** Deployments, ReplicaSets, Services, Namespaces, Ingress, Health Checks
+*📦 Kubernetes: Deployments, ReplicaSets, Services, Namespaces, Ingress, Health Checks
 
-*📚 Concepts:** Infrastructure as Code (IaC), CI/CD, Containerization, Cloud Architecture, Microservices, Production Troubleshooting
+*📚 Concepts: Infrastructure as Code (IaC), CI/CD, Containerization, Cloud Architecture, Microservices, Production Troubleshooting
 
 
 
