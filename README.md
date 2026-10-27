@@ -1,6 +1,6 @@
 # Hi, I'm Paul Momo! 👋
 
-🎓 AS Computer Science — December 2026 | GPA: 3.8
+🎓 BS Computer Science — June 2027 | GPA: 3.9
 ☁️ AWS Certified Cloud Practitioner
 📍 New York | Open to DevOps & Cloud roles
 
