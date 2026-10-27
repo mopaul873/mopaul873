@@ -72,7 +72,7 @@ A Flask dashboard for live CPU, memory, and disk metrics with 16 pytest tests. A
 
 - ☁️ AWS Certified Cloud Practitioner
 - 🛠️ DevOps Bootcamp, 2023
-- 🏅 National Society of Leadership and Success, Inductee 2026
+- 🏅 National Society of Leadership and Success (NSLS), Member (inducted 2026)
 
 ## 📚 Currently Learning
 
