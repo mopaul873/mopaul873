@@ -75,7 +75,7 @@ A Flask dashboard for live CPU, memory, and disk metrics with 16 pytest tests. A
 - 🏆 SNHU President's List: Fall 2025, Spring 2026, Summer 2026
 - 🎖️ SNHU Honor Roll: every term since enrolling (7 consecutive terms)
 - ✅ [Verified academic honors on Merit](https://meritpages.com/Paul-Momo/9423874)
-- 🏅 National Society of Leadership and Success (NSLS), Member (inducted 2026)
+- 🏅 National Society of Leadership and Success (NSLS), Member (inducted 2026) · [Verified certificate](https://app.nsls.org/web/public/social/share/clr/4Gy27ne1Z3StUMpTLnMp3c)
 
 ## 📚 Currently Learning
 
