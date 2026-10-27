@@ -72,7 +72,8 @@ A Flask dashboard for live CPU, memory, and disk metrics with 16 pytest tests. A
 
 - ☁️ AWS Certified Cloud Practitioner
 - 🛠️ DevOps Bootcamp, 2023
-- 🏆 SNHU President's List for academic excellence (2 terms, 2025–2026)
+- 🏆 SNHU President's List, 3 times (including Spring 2026 and Summer 2026)
+- 🎖️ SNHU Honor Roll, 7 terms
 - 🏅 National Society of Leadership and Success (NSLS), Member (inducted 2026)
 
 ## 📚 Currently Learning
