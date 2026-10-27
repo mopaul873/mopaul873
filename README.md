@@ -4,7 +4,7 @@
 
 - 🎓 B.S. Computer Science, Southern New Hampshire University (expected June 2027) · GPA 3.9
 - ☁️ AWS Certified Cloud Practitioner
-- 💼 Open to **DevOps, Cloud Engineer, and SRE** roles in New York and remote
+- 💼 Open to **DevOps, Cloud Engineer, and SRE** roles in New York or remote (U.S.)
 
 ---
 
