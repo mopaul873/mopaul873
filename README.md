@@ -88,4 +88,4 @@ A Flask dashboard for live CPU, memory, and disk metrics with 16 pytest tests. A
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Momo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-momo-8a9791320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Momo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-momo/)
