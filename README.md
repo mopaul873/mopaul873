@@ -66,6 +66,8 @@ A Flask dashboard for live CPU, memory, and disk metrics with 16 pytest tests. A
 | [Agile Sprint Review](https://github.com/mopaul873/CS-250-Software-Development-Lifecycle) | CS 250 · Software Development Lifecycle | Scrum roles, sprint review, and retrospective |
 | [Grocery Tracker](https://github.com/mopaul873/Cplusplus-Program) | CS 210 · Programming Languages | C++ item-frequency tracker with search, histogram, and file backup |
 
+**Additional coursework:** Artificial Intelligence · Operating Systems · Database Systems (SQL) · Software Test Automation & QA
+
 ---
 
 ## 📜 Certifications & Recognition
