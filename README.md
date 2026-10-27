@@ -1,10 +1,10 @@
 # Hi, I'm Paul Momo 👋
 
-**Junior DevOps / Cloud Engineer** in New York, building production-style infrastructure on AWS and Kubernetes.
+**DevOps / Cloud Engineer** in New York, building production-style infrastructure on AWS and Kubernetes.
 
 - 🎓 B.S. Computer Science, Southern New Hampshire University (expected June 2027) · GPA 3.9
 - ☁️ AWS Certified Cloud Practitioner
-- 💼 Open to **Junior DevOps, Cloud Engineer, and SRE** roles in New York and remote
+- 💼 Open to **DevOps, Cloud Engineer, and SRE** roles in New York and remote
 
 ---
 
