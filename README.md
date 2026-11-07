@@ -51,10 +51,6 @@ A Django analytics dashboard moved from a single EC2 server to ECS Fargate behin
 A FastAPI service that serves the TinyLlama LLM through Ollama, containerized with Docker and deployed on a k3s cluster with a Deployment, Service, and Traefik Ingress.
 `Kubernetes` `k3s` `Docker` `FastAPI` `Ollama`
 
-### ☁️ [ECS Fargate Three-Tier Deployment](https://github.com/mopaul873/ecs-three-tier-fastapi)
-A containerized API on AWS ECS Fargate behind an Application Load Balancer, in private subnets across two Availability Zones. All infrastructure is in Terraform, it auto scales from 1 to 3 tasks on CPU, and every app change deploys through GitHub Actions with a smoke test.
-`AWS ECS` `Fargate` `Terraform` `ALB` `Auto Scaling` `GitHub Actions`
-
 ### 📊 [DevOps Health Dashboard](https://github.com/mopaul873/devops-health-dashboard)
 A Flask dashboard for live CPU, memory, and disk metrics with 16 pytest tests. A gated CI/CD pipeline runs the tests, then provisions EC2 with Terraform using remote state and immutable deployments.
 `Python` `Flask` `pytest` `Terraform` `AWS EC2` `GitHub Actions`
