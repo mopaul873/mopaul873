@@ -3,7 +3,7 @@
 **DevOps / Cloud Engineer** in New York, building production-style infrastructure on AWS and Kubernetes.
 
 - 🎓 B.S. Computer Science, Southern New Hampshire University (expected June 2027) · GPA 3.9
-- ☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/67e13979-bb74-4e92-82a0-8d4d23664336)
+- ☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/67e13979-bb74-4e92-82a0-8d4d23664336/public_url)
 - 💼 Open to **DevOps, Cloud Engineer, and SRE** roles in New York or remote (U.S.)
 
 ---
@@ -72,7 +72,7 @@ A Flask dashboard for live CPU, memory, and disk metrics with 16 pytest tests. A
 
 ## 📜 Certifications & Recognition
 
-- ☁️ AWS Certified Cloud Practitioner · [Verified badge](https://www.credly.com/badges/67e13979-bb74-4e92-82a0-8d4d23664336)
+- ☁️ AWS Certified Cloud Practitioner · [Verified badge](https://www.credly.com/badges/67e13979-bb74-4e92-82a0-8d4d23664336/public_url)
 - 🛠️ DevOps Bootcamp, 2023
 - 🏆 SNHU President's List: Fall 2025, Spring 2026, Summer 2026
 - 🎖️ SNHU Honor Roll: every term since enrolling (7 consecutive terms)
