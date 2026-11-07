@@ -43,6 +43,10 @@
 
 ## 🚀 Featured Projects
 
+### 🐳 [Django on AWS ECS Fargate: Zero-Downtime CI/CD](https://github.com/mopaul873/django-ecs-fargate-deploy)
+A Django analytics dashboard moved from a single EC2 server to ECS Fargate behind an Application Load Balancer, with RDS PostgreSQL in private subnets across two Availability Zones. Terraform defines the full stack, the service auto scales from 2 to 10 tasks, and GitHub Actions (authenticated to AWS with OIDC, no stored keys) tests, builds, scans, runs migrations, and does rolling deployments with automatic rollback.
+`AWS ECS` `Fargate` `ECR` `RDS` `Terraform` `GitHub Actions` `Docker` `Django`
+
 ### ☸️ [AI Inference Platform on Kubernetes](https://github.com/mopaul873/ai-inference-platform-kubernetes)
 A FastAPI service that serves the TinyLlama LLM through Ollama, containerized with Docker and deployed on a k3s cluster with a Deployment, Service, and Traefik Ingress.
 `Kubernetes` `k3s` `Docker` `FastAPI` `Ollama`
